@@ -42,6 +42,6 @@ The API used in this Project is Speech Synthesis.
 <!-- CONTACT -->
 # Contact
 
-Name: Arpit Kesharwani 
+Name: Arpit Kesharwani <br>
 Email: kesharwani1407@gmail.com
   
