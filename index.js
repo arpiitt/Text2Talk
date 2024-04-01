@@ -30,7 +30,6 @@ function textToSpeech(text){
     synth.speak(utterance); 
 }
 
-
 speechBtn.addEventListener("click", e=>{
     e.preventDefault(); 
     if(textarea.value !== ""){
